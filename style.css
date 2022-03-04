@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0693e3;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.wrap {
+  margin: auto;
+  width: 80vw;
+}
+
+.brand {
+  font-size: 2rem;
+}
+
+.coming-soon {
+  font-size: 6rem;
+}
